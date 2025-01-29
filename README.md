@@ -1,7 +1,7 @@
 # itmo-mpp
 Продвинутые многопоточные задачи в Университете ИТМО.
 
-Задачи
+Задачи:
 1. Possible Executions Analysis
 2. Michael-Scott Queue
 3. Treiber Stack with Elimination
